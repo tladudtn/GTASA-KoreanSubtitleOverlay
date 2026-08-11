@@ -163,3 +163,15 @@ exe가 패치된(위젯스크린/ASI 로더 지원용, 게임 폴더의 `gta-sa.
 않음), 혹시 몰라 코드에도 주의사항으로 남겨뒀습니다.
 
 <!-- GTA Vice City 포팅 가능성 조사(파일 확보 시도, plugin-sdk SA/VC 구조 비교)는 extra_docs/VC_PORTABILITY.md 참고 -->
+
+## 라이선스
+
+이 저장소의 소스 코드(`src/`, `tools/`)는 [MIT 라이선스](LICENSE)로
+배포됩니다. 코드를 가져다 쓰거나 참고하실 경우 원 저작권 고지와
+라이선스 전문을 함께 남겨주세요. 이 저장소를 참고했다면 원 저장소
+링크(`https://github.com/tladudtn/GTASA-KoreanSubtitleOverlay`)를
+출처로 남겨주시면 감사하겠습니다.
+
+Dear ImGui(MIT), MinHook(BSD 계열), Nanum Gothic 폰트(SIL OFL 1.1)는
+각자의 라이선스를 따르며, 이 저장소의 MIT 라이선스로 재배포되지
+않습니다. 자세한 내용은 [LICENSE](LICENSE)를 참고하세요.
